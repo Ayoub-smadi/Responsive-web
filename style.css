@@ -1,0 +1,58 @@
+/* Custom CSS for Navbar links */
+#navbar .navbar-nav .nav-link {
+    color: #000000;
+    font-size: 18px;
+    font-weight: bold;
+	
+}
+
+/* Custom CSS for Shopping cart icon */
+#navbar .navbar-nav .fas.fa-shopping-cart {
+    font-size: 30px;
+    color: #000000;
+	
+}
+
+
+/* Custom CSS for Search form */
+#navbar .navbar-nav .form-control {
+    border-color: #007bff;
+	
+}
+
+#navbar .navbar-nav .btn-outline-success {
+    color: #007bff;
+    border-color: #007bff;
+}
+
+
+/* Custom CSS for Dropdown menu */
+#navbar .dropdown-menu {
+    background-color: #f8f9fa;
+}
+
+#navbar .dropdown-item {
+    color: #000000;
+}
+#navbar .dropdown-item:hover {
+    background-color: #0a193d;
+}
+
+#navbar .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+.navbar{ 
+	background-color: #0a193d; 
+	
+} 
+#footer {
+    background-color: #0a193d;
+    color: #000000; 
+	
+	
+}
+#footer a {
+    color: #000000;
+}
+
